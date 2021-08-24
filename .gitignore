@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+.idea
+../.vscode
+.vscode
+../.idea
+.vscode
+db.*
+Pipfile
+Pipfile.lock
+env
+venv
+*.sqlite3
+media
+
+# django migrations
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
